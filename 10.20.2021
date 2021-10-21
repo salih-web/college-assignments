@@ -1,0 +1,9 @@
+ /* ilk ödev bu amaç welcome to c cümlesinin kelimelerini alt alta yazmak*/
+ 
+ int main() 
+ {
+  printf("welcome \nto \nc ");	
+ 	
+ 	
+ 	
+ } 
